@@ -1,5 +1,5 @@
-#!/bin/sh -
 #!/usr/bin/sh
+#静默安装oracle软件shell主体
 #--------------------------------------------------------------------------------
 # Install softeare -- Install oracle 11g database software
 # 
